@@ -2,3 +2,4 @@ This file is created for Devops tuotrial
 This is part of my second requirement 
 git is distributed fast version control system
 git is comprehensive tool, it has of features
+git is widely used
